@@ -165,7 +165,7 @@
                 android:layout_marginRight="15dp"
                 android:layout_weight="1"
                 android:background="@drawable/ic_player_favourite"
-                android:backgroundTint="#FFFFFF" />
+                android:backgroundTint="@color/colorAccent" />
 
             <ImageButton
                 android:layout_width="0dp"
