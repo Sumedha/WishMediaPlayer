@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wish Media Player</string>
+    <string name="endless">Endless</string>
+    <string name="by_zara_larsson">by Zara Larsson</string>
+    <string name="time_remaining">-01:20</string>
+</resources>
